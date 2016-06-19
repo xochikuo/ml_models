@@ -1,0 +1,656 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.series
+Series
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+S'name'
+p8
+asS'_data'
+p9
+g0
+(cpandas.core.internals
+SingleBlockManager
+p10
+g2
+Ntp11
+Rp12
+((lp13
+cpandas.indexes.base
+_new_Index
+p14
+(cpandas.indexes.base
+Index
+p15
+(dp16
+S'data'
+p17
+cnumpy.core.multiarray
+_reconstruct
+p18
+(cnumpy
+ndarray
+p19
+(I0
+tp20
+S'b'
+p21
+tp22
+Rp23
+(I1
+(I167
+tp24
+cnumpy
+dtype
+p25
+(S'O8'
+p26
+I0
+I1
+tp27
+Rp28
+(I3
+S'|'
+p29
+NNNI-1
+I-1
+I63
+tp30
+bI00
+(lp31
+VAhwatukee
+p32
+aVAnthem
+p33
+aVApache Junction
+p34
+aVArcadia
+p35
+aVAtlanta
+p36
+aVAvondale
+p37
+aVBlack Canyon City
+p38
+aVBonnyrigg
+p39
+aVBoulder City
+p40
+aVBuckeye
+p41
+aVC Las Vegas
+p42
+aVCambridge
+p43
+aVCarefree
+p44
+aVCasa Grande
+p45
+aVCave Creek
+p46
+aVCentennial Hills
+p47
+aVCentral City Village
+p48
+aVCentral Henderson
+p49
+aVChandler
+p50
+aVChandler-Gilbert
+p51
+aVCity of Edinburgh
+p52
+aVClark County
+p53
+aVCoolidge
+p54
+aVCottage Grove
+p55
+aVCramond
+p56
+aVDalkeith
+p57
+aVDane
+p58
+aVDe Forest
+p59
+aVDeForest
+p60
+aVDeforest
+p61
+aVEagan
+p62
+aVEdinburgh
+p63
+aVEl Mirage
+p64
+aVEnterprise
+p65
+aVFitchburg
+p66
+aVFlorence
+p67
+aVFort Kinnaird
+p68
+aVFort McDowell
+p69
+aVFort Mcdowell
+p70
+aVFountain Hills
+p71
+aVFountain Hls
+p72
+aVGila Bend
+p73
+aVGilbert
+p74
+aVGlendale
+p75
+aVGlendale Az
+p76
+aVGold Canyon
+p77
+aVGoldfield
+p78
+aVGoodyear
+p79
+aVGreen Valley
+p80
+aVGuadalupe
+p81
+aVHeidelberg
+p82
+aVHenderson
+p83
+aVHenderson 
+p84
+aVHenderson (Green  Valley)
+p85
+aVHenderson (Stephanie)
+p86
+aVHenderson and Las vegas
+p87
+aVHigley
+p88
+aVInverkeithing
+p89
+aVJuniper Green
+p90
+aVKitchener
+p91
+aVLake Las Vegas
+p92
+aVLas Vegas
+p93
+aVLas Vegas 
+p94
+aVLas Vegas East
+p95
+aVLas Vegas, NV 89147
+p96
+aVLasswade
+p97
+aVLaveen
+p98
+aVLeith
+p99
+aVLitchfield Park
+p100
+aVLitchfield Park 
+p101
+aVLoanhead
+p102
+aVLondon
+p103
+aVMadison
+p104
+aVMaricopa
+p105
+aVMc Farland
+p106
+aVMcFarland
+p107
+aVMcfarland
+p108
+aVMesa
+p109
+aVMesa 
+p110
+aVMiddleton
+p111
+aVMidlothian
+p112
+aVMonona
+p113
+aVMorristown
+p114
+aVMusselburgh
+p115
+aVN E Las Vegas
+p116
+aVN Las Vegas
+p117
+aVN W Las Vegas
+p118
+aVN. Las Vegas
+p119
+aVNELLIS AFB
+p120
+aVNellis AFB
+p121
+aVNellis Afb
+p122
+aVNellis Air Force Base
+p123
+aVNew River
+p124
+aVNew Town
+p125
+aVNew York
+p126
+aVNewberry Springs
+p127
+aVNewbridge
+p128
+aVNewington
+p129
+aVNorth Las Vegas
+p130
+aVNorth Las Vegas 
+p131
+aVNorth Queensferry
+p132
+aVNorth Scottsdale
+p133
+aVOld Town
+p134
+aVParadise
+p135
+aVParadise Valley
+p136
+aVPenicuik
+p137
+aVPeoria
+p138
+aVPheonix
+p139
+aVPhoenix
+p140
+aVPhoenix 
+p141
+aVPhoenix Sky Harbor Center
+p142
+aVPortobello
+p143
+aVQueen Creek
+p144
+aVQueensferry
+p145
+aVRatho
+p146
+aVRio Verde
+p147
+aVRochester
+p148
+aVRoslin
+p149
+aVSaguaro Lake
+p150
+aVSan Tan Valley
+p151
+aVScotland
+p152
+aVScottsdale
+p153
+aVScottsdale, Phoenix, Chandler, Gilbert
+p154
+aVSedona
+p155
+aVSouth Gyle
+p156
+aVSouth Las Vegas
+p157
+aVSouth Queensferry
+p158
+aVSpring Valley
+p159
+aVSt Clements
+p160
+aVSt Jacobs
+p161
+aVSt. Jacobs
+p162
+aVStanfield
+p163
+aVStockbridge
+p164
+aVStoughton
+p165
+aVStraiton
+p166
+aVSummerlin
+p167
+aVSummerlin South
+p168
+aVSun City
+p169
+aVSun City Anthem
+p170
+aVSun City West
+p171
+aVSun Lakes
+p172
+aVSun Prairie
+p173
+aVSunrise
+p174
+aVSunrise Manor
+p175
+aVSurprise
+p176
+aVSurprise Crossing
+p177
+aVTempe
+p178
+aVTolleson
+p179
+aVTonopah
+p180
+aVTonto Basin
+p181
+aVTortilla Flat
+p182
+aVTrempealeau
+p183
+aVVerona
+p184
+aVVictoria Park
+p185
+aVW Henderson
+p186
+aVW Spring Valley
+p187
+aVW Summerlin
+p188
+aVWaddell
+p189
+aVWater of Leith
+p190
+aVWaterloo
+p191
+aVWaunakee
+p192
+aVWhitney
+p193
+aVWickenburg
+p194
+aVWindsor
+p195
+aVWoolwich
+p196
+aVYoungtown
+p197
+aVchandler
+p198
+atp199
+bsg8
+Nstp200
+Rp201
+a(lp202
+g18
+(g19
+(I0
+tp203
+g21
+tp204
+Rp205
+(I1
+(I167
+tp206
+g25
+(S'f8'
+p207
+I0
+I1
+tp208
+Rp209
+(I3
+S'<'
+p210
+NNNI-1
+I-1
+I0
+tp211
+bI00
+S"\x00\x00\x00\x00\x00\x80\r@T\xfe\x11\xe4)A\x0e@\x9a\x99\x99\x99\x99\x19\r@\x00\x00\x00\x00\x00\x00\x14@\x00\x00\x00\x00\x00\x00\x0c@\xe5\x06\xc1w\x1bO\x0c@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\x0e@y\xce\xba\xe8\xa2\x8b\x10@\x90\x89\x84\xcd\x81D\x0b@\x00\x00\x00\x00\x00\x00\x08@\xcd\xcc\xcc\xcc\xcc\xcc\x10@\x83\xd3\x1c\xc7q\x1c\x0f@\xf9\xd9\xc1rO#\x0c@OF\xb3\xb76L\x0f@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\t@\x00\x00\x00\x00\x00\x00\x0c@\x92\x1e\xa1\x861W\r@\x00\x00\x00\x00\x00\x00\x14@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x80\x0b@\xfaX\xc6q\x1c\xc7\t@\x00\x00\x00\x00\x00\x00\x11@\xbb\xc2TUUU\x11@\x00\x00\x00\x00\x00\x00\x11@\x00\x00\x00\x00\x00\x00\x0e@ffffff\x10@\x00\x00\x00\x00\x00\x00\x14@\x00\x00\x00\x00\x00\x00\x14@\xe0\xef\x8e\n\xe7^\x0e@\x9a\x99\x99\x99\x99\x99\r@\xfaX\xc6q\x1c\xc7\t@\x15\x94O\xbb\x12\xb5\x0b@\xfa!\xf0\xf0\xf0\xf0\x0c@\x00\x00\x00\x00\x00\x00\x12@\xbd\xf4\xd9\xb6m\xdb\n@\x00\x00\x00\x00\x00\x00\x10@\x9d\xb6S.\xe5R\x0e@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\x0b@CH\xf8G\xe8\x04\x0e@\xaa'\xcc\xa3\xf6\xdb\x0c@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x0c@\xf0\x8f$u<@\x0c@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x04@\xc8\xa5x\xfc\xe1\x80\r@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x08@w\x85\xa9\xaa\xaa\xaa\x0e@\x16r\xba\xa7\x11\x96\r@\x00\x00\x00\x00\x00\x00\x12@\x94\xa51\xb5\x006\r@\xcd\xcc\xcc\xcc\xcc\xcc\x0c@\x00\x00\x00\x00\x00\x00\x12@\x00\x00\x00\x00\x00\x00\x04@w\x85\xa9\xaa\xaa\xaa\n@\x16Y\xb7m\xdb\xb6\n@\x00\x00\x00\x00\x00\x00\x10@\x9a\x99\x99\x99\x99\x99\r@\x00\x00\x00\x00\x00\x00\x12@ffffff\x0e@\x00\x00\x00\x00\x00\x00\x08@.\xcd\xf8yv*\r@)\\\x8f\xc2\xf5(\x0c@\xcd\xcc\xcc\xcc\xcc\xcc\x08@\x9a\x99\x99\x99\x99\x99\x11@\x00\x00\x00\x00\x00\x00\x0c@\xfc\xc0\xde\x8f\x9e\xb8\x0c@\x00\x00\x00\x00\x00\x00\x08@},\xe38\x8e\xe3\x0c@\x00\x00\x00\x00\x00\x00\x12@\xe4c\x81<%\xc8\x0b@\x00\x00\x00\x00\x00\x00\x0c@ffffff\x0c@\x00\x00\x00\x00\x00\x00\x14@\x00\x00\x00\x00\x00\x80\x0c@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\n@\x00\x00\x00\x00\x00\x00\x12@},\xe38\x8e\xe3\x10@\x00\x00\x00\x00\x00\x00\n@\x00\x00\x00\x00\x00\x00\x08@w\x85\xa9\xaa\xaa\xaa\x0c@\x8azVUUU\r@\x00\x00\x00\x00\x00\x00\x14@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x12@\x00\x00\x00\x00\x00\x00\x08@\xcc\xe3w\xb6j\x91\x0b@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\xc0\x0b@S\xedk\x0e$Z\r@\x00\x00\x00\x00\x00\x00\x10@-#<tV\x1c\r@\x00\x00\x00\x00\x00\x00\x08@\x1c\n\xdd5\xc1\\\r@\x00\x00\x00\x00\x00\x00\xf0?\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x0e@\xf9\x0b*\xa32*\r@w\x85\xa9\xaa\xaa\xaa\x0e@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\x14@\x00\x00\x00\x00\x00\x00\x12@\x00\x00\x00\x00\x00\x00\x08@\xd9\xa6z\xef\xbd\xf7\x0e@\x00\x00\x00\x00\x00\x00\x0c@4a\xdds\xbe\x90\x0e@\x00\x00\x00\x00\x00\x00\x14@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x04@\x00\x00\x00\x00\x00\x00\x12@333333\x0f@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x12@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x12@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x12@\x00\x00\x00\x00\x00\x00\x0e@\x00\x00\x00\x00\x00\x00\x04@\x00\x00\x00\x00\x00\x00\x10@\x00\x00\x00\x00\x00\x00\n@ffffff\x0c@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\r@\xfaX\xc6q\x1c\xc7\t@\x1cH\xfcjL\xa4\x0b@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\x08@\xb3LljS\x9b\x0c@\x00\x00\x00\x00\x00\x00\x12@\x03\xf3\xac5/(\r@\x89zVUU\xd5\t@\x00\x00\x00\x00\x00\x00\x0e@w\x85\xa9\xaa\xaa\xaa\x0e@E=\xab\xaa\xaa\xaa\x10@\x00\x00\x00\x00\x00\x00\x10@v!l\xad\xb5\xd6\x0e@\x00\x00\x00\x00\x00\x00\x12@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x08@\x00\x00\x00\x00\x00\x00\x0c@w\x85\xa9\xaa\xaa\xaa\x0e@\x00\x00\x00\x00\x00\x00\x12@\x83<k\x11\xf2\xd7\x0c@w\x85\xa9\xaa\xaa\xaa\n@\x00\x00\x00\x00\x00\x00\x12@\xd9\x1a@\xe9\x93>\r@\x00\x00\x00\x00\x00\x00\x0c@\x00\x00\x00\x00\x00\x00\x11@\xbd\xf4\xd9\xb6m\xdb\x0e@\x00\x00\x00\x00\x00\x00\x14@"
+p212
+tp213
+ba(lp214
+g14
+(g15
+(dp215
+g17
+g18
+(g19
+(I0
+tp216
+g21
+tp217
+Rp218
+(I1
+(I167
+tp219
+g28
+I00
+(lp220
+g32
+ag33
+ag34
+ag35
+ag36
+ag37
+ag38
+ag39
+ag40
+ag41
+ag42
+ag43
+ag44
+ag45
+ag46
+ag47
+ag48
+ag49
+ag50
+ag51
+ag52
+ag53
+ag54
+ag55
+ag56
+ag57
+ag58
+ag59
+ag60
+ag61
+ag62
+ag63
+ag64
+ag65
+ag66
+ag67
+ag68
+ag69
+ag70
+ag71
+ag72
+ag73
+ag74
+ag75
+ag76
+ag77
+ag78
+ag79
+ag80
+ag81
+ag82
+ag83
+ag84
+ag85
+ag86
+ag87
+ag88
+ag89
+ag90
+ag91
+ag92
+ag93
+ag94
+ag95
+ag96
+ag97
+ag98
+ag99
+ag100
+ag101
+ag102
+ag103
+ag104
+ag105
+ag106
+ag107
+ag108
+ag109
+ag110
+ag111
+ag112
+ag113
+ag114
+ag115
+ag116
+ag117
+ag118
+ag119
+ag120
+ag121
+ag122
+ag123
+ag124
+ag125
+ag126
+ag127
+ag128
+ag129
+ag130
+ag131
+ag132
+ag133
+ag134
+ag135
+ag136
+ag137
+ag138
+ag139
+ag140
+ag141
+ag142
+ag143
+ag144
+ag145
+ag146
+ag147
+ag148
+ag149
+ag150
+ag151
+ag152
+ag153
+ag154
+ag155
+ag156
+ag157
+ag158
+ag159
+ag160
+ag161
+ag162
+ag163
+ag164
+ag165
+ag166
+ag167
+ag168
+ag169
+ag170
+ag171
+ag172
+ag173
+ag174
+ag175
+ag176
+ag177
+ag178
+ag179
+ag180
+ag181
+ag182
+ag183
+ag184
+ag185
+ag186
+ag187
+ag188
+ag189
+ag190
+ag191
+ag192
+ag193
+ag194
+ag195
+ag196
+ag197
+ag198
+atp221
+bsg8
+Nstp222
+Rp223
+a(dp224
+S'0.14.1'
+p225
+(dp226
+S'axes'
+p227
+g13
+sS'blocks'
+p228
+(lp229
+(dp230
+S'mgr_locs'
+p231
+c__builtin__
+slice
+p232
+(I0
+I167
+I1
+tp233
+Rp234
+sS'values'
+p235
+g205
+sasstp236
+bsS'_typ'
+p237
+S'series'
+p238
+sg8
+Nsb.
