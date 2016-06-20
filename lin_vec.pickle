@@ -1,0 +1,406 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.feature_extraction.dict_vectorizer
+DictVectorizer
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'sort'
+p6
+I01
+sS'feature_names_'
+p7
+(lp8
+VAccepts Credit Cards
+p9
+aVAccepts Insurance
+p10
+aVAges Allowed=18plus
+p11
+aVAges Allowed=21plus
+p12
+aVAges Allowed=allages
+p13
+aVAlcohol=beer_and_wine
+p14
+aVAlcohol=full_bar
+p15
+aVAlcohol=none
+p16
+aVAmbience_casual
+p17
+aVAmbience_classy
+p18
+aVAmbience_divey
+p19
+aVAmbience_hipster
+p20
+aVAmbience_intimate
+p21
+aVAmbience_romantic
+p22
+aVAmbience_touristy
+p23
+aVAmbience_trendy
+p24
+aVAmbience_upscale
+p25
+aVAttire=casual
+p26
+aVAttire=dressy
+p27
+aVAttire=formal
+p28
+aVBYOB
+p29
+aVBYOB/Corkage=no
+p30
+aVBYOB/Corkage=yes_corkage
+p31
+aVBYOB/Corkage=yes_free
+p32
+aVBy Appointment Only
+p33
+aVCaters
+p34
+aVCoat Check
+p35
+aVCorkage
+p36
+aVDelivery
+p37
+aVDietary Restrictions_dairy-free
+p38
+aVDietary Restrictions_gluten-free
+p39
+aVDietary Restrictions_halal
+p40
+aVDietary Restrictions_kosher
+p41
+aVDietary Restrictions_soy-free
+p42
+aVDietary Restrictions_vegan
+p43
+aVDietary Restrictions_vegetarian
+p44
+aVDogs Allowed
+p45
+aVDrive-Thru
+p46
+aVGood For Dancing
+p47
+aVGood For Groups
+p48
+aVGood For Kids
+p49
+aVGood For_breakfast
+p50
+aVGood For_brunch
+p51
+aVGood For_dessert
+p52
+aVGood For_dinner
+p53
+aVGood For_latenight
+p54
+aVGood For_lunch
+p55
+aVGood for Kids
+p56
+aVHair Types Specialized In_africanamerican
+p57
+aVHair Types Specialized In_asian
+p58
+aVHair Types Specialized In_coloring
+p59
+aVHair Types Specialized In_curly
+p60
+aVHair Types Specialized In_extensions
+p61
+aVHair Types Specialized In_kids
+p62
+aVHair Types Specialized In_perms
+p63
+aVHair Types Specialized In_straightperms
+p64
+aVHappy Hour
+p65
+aVHas TV
+p66
+aVMusic_background_music
+p67
+aVMusic_dj
+p68
+aVMusic_jukebox
+p69
+aVMusic_karaoke
+p70
+aVMusic_live
+p71
+aVMusic_playlist
+p72
+aVMusic_video
+p73
+aVNoise Level=average
+p74
+aVNoise Level=loud
+p75
+aVNoise Level=quiet
+p76
+aVNoise Level=very_loud
+p77
+aVOpen 24 Hours
+p78
+aVOrder at Counter
+p79
+aVOutdoor Seating
+p80
+aVParking_garage
+p81
+aVParking_lot
+p82
+aVParking_street
+p83
+aVParking_valet
+p84
+aVParking_validated
+p85
+aVPayment Types_amex
+p86
+aVPayment Types_cash_only
+p87
+aVPayment Types_discover
+p88
+aVPayment Types_mastercard
+p89
+aVPayment Types_visa
+p90
+aVPrice Range
+p91
+aVSmoking=no
+p92
+aVSmoking=outdoor
+p93
+aVSmoking=yes
+p94
+aVTake-out
+p95
+aVTakes Reservations
+p96
+aVWaiter Service
+p97
+aVWheelchair Accessible
+p98
+aVWi-Fi=free
+p99
+aVWi-Fi=no
+p100
+aVWi-Fi=paid
+p101
+asS'dtype'
+p102
+cnumpy
+float64
+p103
+sS'vocabulary_'
+p104
+(dp105
+g12
+I3
+sg46
+I37
+sg78
+I69
+sg24
+I15
+sg94
+I85
+sg34
+I25
+sg87
+I78
+sg93
+I84
+sg26
+I17
+sg21
+I12
+sg31
+I22
+sg22
+I13
+sg42
+I33
+sg50
+I41
+sg80
+I71
+sg96
+I87
+sg11
+I2
+sg9
+I0
+sg54
+I45
+sg64
+I55
+sg79
+I70
+sg60
+I51
+sg14
+I5
+sg69
+I60
+sg30
+I21
+sg88
+I79
+sg92
+I83
+sg55
+I46
+sg99
+I90
+sg77
+I68
+sg20
+I11
+sg72
+I63
+sg45
+I36
+sg100
+I91
+sg52
+I43
+sg53
+I44
+sg68
+I59
+sg43
+I34
+sg23
+I14
+sg58
+I49
+sg67
+I58
+sg63
+I54
+sg74
+I65
+sg17
+I8
+sg83
+I74
+sg76
+I67
+sg66
+I57
+sg41
+I32
+sg39
+I30
+sg73
+I64
+sg29
+I20
+sg44
+I35
+sg35
+I26
+sg27
+I18
+sg16
+I7
+sg38
+I29
+sg84
+I75
+sg25
+I16
+sg65
+I56
+sg57
+I48
+sg19
+I10
+sg85
+I76
+sg89
+I80
+sg18
+I9
+sg13
+I4
+sg28
+I19
+sg33
+I24
+sg82
+I73
+sg49
+I40
+sg48
+I39
+sg75
+I66
+sg10
+I1
+sg56
+I47
+sg15
+I6
+sg91
+I82
+sg81
+I72
+sg70
+I61
+sg47
+I38
+sg37
+I28
+sg90
+I81
+sg36
+I27
+sg98
+I89
+sg95
+I86
+sg61
+I52
+sg101
+I92
+sg86
+I77
+sg59
+I50
+sg97
+I88
+sg71
+I62
+sg40
+I31
+sg32
+I23
+sg62
+I53
+sg51
+I42
+ssS'separator'
+p106
+S'='
+p107
+sS'sparse'
+p108
+I01
+sb.
