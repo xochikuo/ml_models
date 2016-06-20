@@ -1,0 +1,2858 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.feature_extraction.dict_vectorizer
+DictVectorizer
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'sort'
+p6
+I01
+sS'feature_names_'
+p7
+(lp8
+VATV Rentals/Tours
+p9
+aVAccessories
+p10
+aVAccountants
+p11
+aVActive Life
+p12
+aVAcupuncture
+p13
+aVAdult
+p14
+aVAdult Education
+p15
+aVAdult Entertainment
+p16
+aVAdvertising
+p17
+aVAfghan
+p18
+aVAfrican
+p19
+aVAirlines
+p20
+aVAirport Shuttles
+p21
+aVAirports
+p22
+aVAllergists
+p23
+aVAmateur Sports Teams
+p24
+aVAmerican (New)
+p25
+aVAmerican (Traditional)
+p26
+aVAmusement Parks
+p27
+aVAnesthesiologists
+p28
+aVAnimal Shelters
+p29
+aVAntiques
+p30
+aVApartments
+p31
+aVAppliances
+p32
+aVAppliances & Repair
+p33
+aVAquarium Services
+p34
+aVAquariums
+p35
+aVArabian
+p36
+aVArcades
+p37
+aVArchery
+p38
+aVArchitects
+p39
+aVArgentine
+p40
+aVArt Classes
+p41
+aVArt Galleries
+p42
+aVArt Schools
+p43
+aVArt Supplies
+p44
+aVArts & Crafts
+p45
+aVArts & Entertainment
+p46
+aVAsian Fusion
+p47
+aVAuction Houses
+p48
+aVAudiologist
+p49
+aVAustralian
+p50
+aVAuto Customization
+p51
+aVAuto Detailing
+p52
+aVAuto Glass Services
+p53
+aVAuto Loan Providers
+p54
+aVAuto Parts & Supplies
+p55
+aVAuto Repair
+p56
+aVAutomotive
+p57
+aVBaby Gear & Furniture
+p58
+aVBagels
+p59
+aVBail Bondsmen
+p60
+aVBakeries
+p61
+aVBangladeshi
+p62
+aVBankruptcy Law
+p63
+aVBanks & Credit Unions
+p64
+aVBarbeque
+p65
+aVBarbers
+p66
+aVBarre Classes
+p67
+aVBars
+p68
+aVBartenders
+p69
+aVBartending Schools
+p70
+aVBasque
+p71
+aVBeaches
+p72
+aVBeauty & Spas
+p73
+aVBed & Breakfast
+p74
+aVBeer Bar
+p75
+aVBeer, Wine & Spirits
+p76
+aVBelgian
+p77
+aVBespoke Clothing
+p78
+aVBike Rentals
+p79
+aVBike Repair/Maintenance
+p80
+aVBikes
+p81
+aVBistros
+p82
+aVBlow Dry/Out Services
+p83
+aVBoat Charters
+p84
+aVBoat Dealers
+p85
+aVBoat Repair
+p86
+aVBoating
+p87
+aVBody Shops
+p88
+aVBooks, Mags, Music & Video
+p89
+aVBookstores
+p90
+aVBoot Camps
+p91
+aVBotanical Gardens
+p92
+aVBowling
+p93
+aVBoxing
+p94
+aVBrasseries
+p95
+aVBrazilian
+p96
+aVBreakfast & Brunch
+p97
+aVBreweries
+p98
+aVBrewing Supplies
+p99
+aVBridal
+p100
+aVBritish
+p101
+aVBubble Tea
+p102
+aVBuddhist Temples
+p103
+aVBuffets
+p104
+aVBuilding Supplies
+p105
+aVBurgers
+p106
+aVBurmese
+p107
+aVBuses
+p108
+aVBusiness Law
+p109
+aVButcher
+p110
+aVCPR Classes
+p111
+aVCSA
+p112
+aVCabinetry
+p113
+aVCafes
+p114
+aVCafeteria
+p115
+aVCajun/Creole
+p116
+aVCambodian
+p117
+aVCampgrounds
+p118
+aVCanadian (New)
+p119
+aVCandy Stores
+p120
+aVCannabis Clinics
+p121
+aVCantonese
+p122
+aVCar Dealers
+p123
+aVCar Rental
+p124
+aVCar Share Services
+p125
+aVCar Stereo Installation
+p126
+aVCar Wash
+p127
+aVCardiologists
+p128
+aVCards & Stationery
+p129
+aVCareer Counseling
+p130
+aVCaribbean
+p131
+aVCarpet Cleaning
+p132
+aVCarpet Installation
+p133
+aVCarpeting
+p134
+aVCasinos
+p135
+aVCaterers
+p136
+aVChallenge Courses
+p137
+aVChampagne Bars
+p138
+aVCheck Cashing/Pay-day Loans
+p139
+aVCheese Shops
+p140
+aVCheesesteaks
+p141
+aVChicken Wings
+p142
+aVChild Care & Day Care
+p143
+aVChildren's Clothing
+p144
+aVChimney Sweeps
+p145
+aVChinese
+p146
+aVChiropractors
+p147
+aVChocolatiers & Shops
+p148
+aVChristmas Markets
+p149
+aVChurches
+p150
+aVCinema
+p151
+aVClimbing
+p152
+aVCocktail Bars
+p153
+aVCoffee & Tea
+p154
+aVCollege Counseling
+p155
+aVColleges & Universities
+p156
+aVColombian
+p157
+aVComedy Clubs
+p158
+aVComfort Food
+p159
+aVComic Books
+p160
+aVCommercial Real Estate
+p161
+aVCommunity Service/Non-Profit
+p162
+aVComputers
+p163
+aVContractors
+p164
+aVConvenience Stores
+p165
+aVCooking Classes
+p166
+aVCooking Schools
+p167
+aVCosmetic Dentists
+p168
+aVCosmetic Surgeons
+p169
+aVCosmetics & Beauty Supply
+p170
+aVCosmetology Schools
+p171
+aVCostumes
+p172
+aVCounseling & Mental Health
+p173
+aVCountry Dance Halls
+p174
+aVCouriers & Delivery Services
+p175
+aVCourthouses
+p176
+aVCreperies
+p177
+aVCriminal Defense Law
+p178
+aVCuban
+p179
+aVCultural Center
+p180
+aVCupcakes
+p181
+aVCycling Classes
+p182
+aVCzech
+p183
+aVDJs
+p184
+aVDUI Law
+p185
+aVDamage Restoration
+p186
+aVDance Clubs
+p187
+aVDance Schools
+p188
+aVDance Studios
+p189
+aVData Recovery
+p190
+aVDay Camps
+p191
+aVDay Spas
+p192
+aVDelicatessen
+p193
+aVDelis
+p194
+aVDentists
+p195
+aVDepartment Stores
+p196
+aVDepartments of Motor Vehicles
+p197
+aVDermatologists
+p198
+aVDesserts
+p199
+aVDiagnostic Imaging
+p200
+aVDiagnostic Services
+p201
+aVDim Sum
+p202
+aVDiners
+p203
+aVDisc Golf
+p204
+aVDiscount Store
+p205
+aVDistilleries
+p206
+aVDive Bars
+p207
+aVDiving
+p208
+aVDivorce & Family Law
+p209
+aVDo-It-Yourself Food
+p210
+aVDoctors
+p211
+aVDog Parks
+p212
+aVDog Walkers
+p213
+aVDominican
+p214
+aVDonuts
+p215
+aVDoor Sales/Installation
+p216
+aVDoulas
+p217
+aVDriving Schools
+p218
+aVDrugstores
+p219
+aVDry Cleaning & Laundry
+p220
+aVDrywall Installation & Repair
+p221
+aVEar Nose & Throat
+p222
+aVEducation
+p223
+aVEducational Services
+p224
+aVEgyptian
+p225
+aVElectricians
+p226
+aVElectronics
+p227
+aVElectronics Repair
+p228
+aVElementary Schools
+p229
+aVEmbroidery & Crochet
+p230
+aVEmployment Agencies
+p231
+aVEmployment Law
+p232
+aVEndocrinologists
+p233
+aVEndodontists
+p234
+aVEstate Planning Law
+p235
+aVEthiopian
+p236
+aVEthnic Food
+p237
+aVEvent Photography
+p238
+aVEvent Planning & Services
+p239
+aVEyelash Service
+p240
+aVEyewear & Opticians
+p241
+aVFabric Stores
+p242
+aVFalafel
+p243
+aVFamily Practice
+p244
+aVFarmers Market
+p245
+aVFashion
+p246
+aVFast Food
+p247
+aVFences & Gates
+p248
+aVFertility
+p249
+aVFestivals
+p250
+aVFilipino
+p251
+aVFinancial Advising
+p252
+aVFinancial Services
+p253
+aVFirst Aid Classes
+p254
+aVFish & Chips
+p255
+aVFishing
+p256
+aVFitness & Instruction
+p257
+aVFlea Markets
+p258
+aVFlight Instruction
+p259
+aVFlooring
+p260
+aVFlorists
+p261
+aVFlowers
+p262
+aVFlowers & Gifts
+p263
+aVFondue
+p264
+aVFood
+p265
+aVFood Court
+p266
+aVFood Delivery Services
+p267
+aVFood Stands
+p268
+aVFood Trucks
+p269
+aVFormal Wear
+p270
+aVFraming
+p271
+aVFrench
+p272
+aVFruits & Veggies
+p273
+aVFuneral Services & Cemeteries
+p274
+aVFurniture Reupholstery
+p275
+aVFurniture Stores
+p276
+aVGarage Door Services
+p277
+aVGardeners
+p278
+aVGas & Service Stations
+p279
+aVGastroenterologist
+p280
+aVGastropubs
+p281
+aVGay Bars
+p282
+aVGelato
+p283
+aVGeneral Dentistry
+p284
+aVGeneral Litigation
+p285
+aVGerman
+p286
+aVGift Shops
+p287
+aVGlass & Mirrors
+p288
+aVGluten-Free
+p289
+aVGo Karts
+p290
+aVGold Buyers
+p291
+aVGolf
+p292
+aVGolf Equipment
+p293
+aVGraphic Design
+p294
+aVGreek
+p295
+aVGrocery
+p296
+aVGuest Houses
+p297
+aVGun/Rifle Ranges
+p298
+aVGuns & Ammo
+p299
+aVGymnastics
+p300
+aVGyms
+p301
+aVHair Extensions
+p302
+aVHair Removal
+p303
+aVHair Salons
+p304
+aVHair Stylists
+p305
+aVHalal
+p306
+aVHandyman
+p307
+aVHardware Stores
+p308
+aVHats
+p309
+aVHawaiian
+p310
+aVHealth & Medical
+p311
+aVHealth Markets
+p312
+aVHealth Retreats
+p313
+aVHeating & Air Conditioning/HVAC
+p314
+aVHerbs & Spices
+p315
+aVHiking
+p316
+aVHimalayan/Nepalese
+p317
+aVHindu Temples
+p318
+aVHobby Shops
+p319
+aVHome & Garden
+p320
+aVHome Cleaning
+p321
+aVHome Decor
+p322
+aVHome Health Care
+p323
+aVHome Inspectors
+p324
+aVHome Organization
+p325
+aVHome Services
+p326
+aVHome Theatre Installation
+p327
+aVHome Window Tinting
+p328
+aVHookah Bars
+p329
+aVHorse Boarding
+p330
+aVHorse Racing
+p331
+aVHorseback Riding
+p332
+aVHospice
+p333
+aVHospitals
+p334
+aVHostels
+p335
+aVHot Air Balloons
+p336
+aVHot Dogs
+p337
+aVHot Pot
+p338
+aVHot Tub & Pool
+p339
+aVHotels
+p340
+aVHotels & Travel
+p341
+aVHypnosis/Hypnotherapy
+p342
+aVIT Services & Computer Repair
+p343
+aVIce Cream & Frozen Yogurt
+p344
+aVImmigration Law
+p345
+aVIndian
+p346
+aVIndonesian
+p347
+aVInsulation Installation
+p348
+aVInsurance
+p349
+aVInterior Design
+p350
+aVInternal Medicine
+p351
+aVInternet Cafes
+p352
+aVInternet Service Providers
+p353
+aVInvesting
+p354
+aVIrish
+p355
+aVIrrigation
+p356
+aVIsland Pub
+p357
+aVItalian
+p358
+aVJapanese
+p359
+aVJazz & Blues
+p360
+aVJet Skis
+p361
+aVJewelry
+p362
+aVJewelry Repair
+p363
+aVJuice Bars & Smoothies
+p364
+aVJunk Removal & Hauling
+p365
+aVKaraoke
+p366
+aVKeys & Locksmiths
+p367
+aVKids Activities
+p368
+aVKitchen & Bath
+p369
+aVKnitting Supplies
+p370
+aVKorean
+p371
+aVKosher
+p372
+aVLaboratory Testing
+p373
+aVLactation Services
+p374
+aVLakes
+p375
+aVLandmarks & Historical Buildings
+p376
+aVLandscape Architects
+p377
+aVLandscaping
+p378
+aVLanguage Schools
+p379
+aVLaotian
+p380
+aVLaser Eye Surgery/Lasik
+p381
+aVLaser Hair Removal
+p382
+aVLaser Tag
+p383
+aVLatin American
+p384
+aVLawyers
+p385
+aVLeather Goods
+p386
+aVLebanese
+p387
+aVLeisure Centers
+p388
+aVLibraries
+p389
+aVLife Coach
+p390
+aVLighting Fixtures & Equipment
+p391
+aVLimos
+p392
+aVLingerie
+p393
+aVLive/Raw Food
+p394
+aVLocal Flavor
+p395
+aVLocal Services
+p396
+aVLounges
+p397
+aVLuggage
+p398
+aVMagicians
+p399
+aVMakeup Artists
+p400
+aVMalaysian
+p401
+aVMarketing
+p402
+aVMartial Arts
+p403
+aVMasonry/Concrete
+p404
+aVMass Media
+p405
+aVMassage
+p406
+aVMassage Schools
+p407
+aVMassage Therapy
+p408
+aVMatchmakers
+p409
+aVMaternity Wear
+p410
+aVMattresses
+p411
+aVMeat Shops
+p412
+aVMedical Centers
+p413
+aVMedical Spas
+p414
+aVMedical Supplies
+p415
+aVMedical Transportation
+p416
+aVMeditation Centers
+p417
+aVMediterranean
+p418
+aVMen's Clothing
+p419
+aVMen's Hair Salons
+p420
+aVMexican
+p421
+aVMiddle Eastern
+p422
+aVMiddle Schools & High Schools
+p423
+aVMidwives
+p424
+aVMini Golf
+p425
+aVMobile Phone Repair
+p426
+aVMobile Phones
+p427
+aVModern European
+p428
+aVMongolian
+p429
+aVMoroccan
+p430
+aVMortgage Brokers
+p431
+aVMosques
+p432
+aVMotorcycle Dealers
+p433
+aVMotorcycle Gear
+p434
+aVMotorcycle Rental
+p435
+aVMotorcycle Repair
+p436
+aVMountain Biking
+p437
+aVMovers
+p438
+aVMuseums
+p439
+aVMusic & DVDs
+p440
+aVMusic Venues
+p441
+aVMusical Instruments & Teachers
+p442
+aVMusicians
+p443
+aVNail Salons
+p444
+aVNanny Services
+p445
+aVNaturopathic/Holistic
+p446
+aVNeurologist
+p447
+aVNewspapers & Magazines
+p448
+aVNightlife
+p449
+aVNotaries
+p450
+aVNurseries & Gardening
+p451
+aVNutritionists
+p452
+aVObstetricians & Gynecologists
+p453
+aVOccupational Therapy
+p454
+aVOffice Cleaning
+p455
+aVOffice Equipment
+p456
+aVOfficiants
+p457
+aVOil Change Stations
+p458
+aVOncologist
+p459
+aVOpera & Ballet
+p460
+aVOphthalmologists
+p461
+aVOptometrists
+p462
+aVOral Surgeons
+p463
+aVOrganic Stores
+p464
+aVOrthodontists
+p465
+aVOrthopedists
+p466
+aVOrthotics
+p467
+aVOsteopathic Physicians
+p468
+aVOutdoor Gear
+p469
+aVOutlet Stores
+p470
+aVPaddleboarding
+p471
+aVPaintball
+p472
+aVPainters
+p473
+aVPakistani
+p474
+aVParking
+p475
+aVParks
+p476
+aVParty & Event Planning
+p477
+aVParty Bus Rentals
+p478
+aVParty Equipment Rentals
+p479
+aVParty Supplies
+p480
+aVPatisserie/Cake Shop
+p481
+aVPawn Shops
+p482
+aVPayroll Services
+p483
+aVPediatric Dentists
+p484
+aVPediatricians
+p485
+aVPerforming Arts
+p486
+aVPeriodontists
+p487
+aVPermanent Makeup
+p488
+aVPersian/Iranian
+p489
+aVPersonal Assistants
+p490
+aVPersonal Chefs
+p491
+aVPersonal Injury Law
+p492
+aVPersonal Shopping
+p493
+aVPeruvian
+p494
+aVPest Control
+p495
+aVPet Adoption
+p496
+aVPet Boarding/Pet Sitting
+p497
+aVPet Groomers
+p498
+aVPet Services
+p499
+aVPet Stores
+p500
+aVPet Training
+p501
+aVPets
+p502
+aVPharmacy
+p503
+aVPhoto Booth Rentals
+p504
+aVPhotographers
+p505
+aVPhotography Stores & Services
+p506
+aVPhysical Therapy
+p507
+aVPiano Bars
+p508
+aVPiercing
+p509
+aVPilates
+p510
+aVPizza
+p511
+aVPlaygrounds
+p512
+aVPlumbing
+p513
+aVPlus Size Fashion
+p514
+aVPodiatrists
+p515
+aVPolice Departments
+p516
+aVPolish
+p517
+aVPool & Hot Tub Service
+p518
+aVPool Cleaners
+p519
+aVPool Halls
+p520
+aVPortuguese
+p521
+aVPost Offices
+p522
+aVPoutineries
+p523
+aVPreschools
+p524
+aVPressure Washers
+p525
+aVPretzels
+p526
+aVPrint Media
+p527
+aVPrinting Services
+p528
+aVPrivate Investigation
+p529
+aVPrivate Tutors
+p530
+aVProfessional Services
+p531
+aVProfessional Sports Teams
+p532
+aVPropane
+p533
+aVProperty Management
+p534
+aVPsychiatrists
+p535
+aVPsychics & Astrologers
+p536
+aVPsychologists
+p537
+aVPublic Relations
+p538
+aVPublic Services & Government
+p539
+aVPublic Transportation
+p540
+aVPubs
+p541
+aVPulmonologist
+p542
+aVRV Dealers
+p543
+aVRV Parks
+p544
+aVRV Rental
+p545
+aVRace Tracks
+p546
+aVRadio Stations
+p547
+aVRadiologists
+p548
+aVRafting/Kayaking
+p549
+aVRamen
+p550
+aVReal Estate
+p551
+aVReal Estate Agents
+p552
+aVReal Estate Law
+p553
+aVReal Estate Services
+p554
+aVRecording & Rehearsal Studios
+p555
+aVRecreation Centers
+p556
+aVRecycling Center
+p557
+aVReflexology
+p558
+aVRegistration Services
+p559
+aVRehabilitation Center
+p560
+aVReiki
+p561
+aVReligious Organizations
+p562
+aVReligious Schools
+p563
+aVResorts
+p564
+aVRestaurants
+p565
+aVRetirement Homes
+p566
+aVRheumatologists
+p567
+aVRock Climbing
+p568
+aVRoofing
+p569
+aVRugs
+p570
+aVRussian
+p571
+aVSalad
+p572
+aVSalvadoran
+p573
+aVSandwiches
+p574
+aVScandinavian
+p575
+aVScottish
+p576
+aVScreen Printing
+p577
+aVScreen Printing/T-Shirt Printing
+p578
+aVScuba Diving
+p579
+aVSeafood
+p580
+aVSeafood Markets
+p581
+aVSecurity Services
+p582
+aVSecurity Systems
+p583
+aVSelf Storage
+p584
+aVSeptic Services
+p585
+aVSession Photography
+p586
+aVSewing & Alterations
+p587
+aVShades & Blinds
+p588
+aVShanghainese
+p589
+aVShared Office Spaces
+p590
+aVShaved Ice
+p591
+aVShipping Centers
+p592
+aVShoe Repair
+p593
+aVShoe Stores
+p594
+aVShopping
+p595
+aVShopping Centers
+p596
+aVShredding Services
+p597
+aVSignmaking
+p598
+aVSingaporean
+p599
+aVSkate Parks
+p600
+aVSkating Rinks
+p601
+aVSki Resorts
+p602
+aVSkiing
+p603
+aVSkin Care
+p604
+aVSkydiving
+p605
+aVSlovakian
+p606
+aVSmog Check Stations
+p607
+aVSoccer
+p608
+aVSocial Clubs
+p609
+aVSoftware Development
+p610
+aVSolar Installation
+p611
+aVSoul Food
+p612
+aVSoup
+p613
+aVSouthern
+p614
+aVSpanish
+p615
+aVSpecial Education
+p616
+aVSpecialty Food
+p617
+aVSpecialty Schools
+p618
+aVSpeech Therapists
+p619
+aVSporting Goods
+p620
+aVSports Bars
+p621
+aVSports Clubs
+p622
+aVSports Medicine
+p623
+aVSports Wear
+p624
+aVSpray Tanning
+p625
+aVStadiums & Arenas
+p626
+aVSteakhouses
+p627
+aVStreet Vendors
+p628
+aVSummer Camps
+p629
+aVSurf Shop
+p630
+aVSushi Bars
+p631
+aVSwimming Lessons/Schools
+p632
+aVSwimming Pools
+p633
+aVSwimwear
+p634
+aVSynagogues
+p635
+aVSzechuan
+p636
+aVTai Chi
+p637
+aVTaiwanese
+p638
+aVTalent Agencies
+p639
+aVTanning
+p640
+aVTanning Beds
+p641
+aVTapas Bars
+p642
+aVTapas/Small Plates
+p643
+aVTattoo
+p644
+aVTattoo Removal
+p645
+aVTax Services
+p646
+aVTaxis
+p647
+aVTea Rooms
+p648
+aVTelevision Service Providers
+p649
+aVTelevision Stations
+p650
+aVTennis
+p651
+aVTest Preparation
+p652
+aVTex-Mex
+p653
+aVThai
+p654
+aVThrift Stores
+p655
+aVTicket Sales
+p656
+aVTires
+p657
+aVTobacco Shops
+p658
+aVTours
+p659
+aVTowing
+p660
+aVToy Stores
+p661
+aVTraditional Chinese Medicine
+p662
+aVTrain Stations
+p663
+aVTrainers
+p664
+aVTrampoline Parks
+p665
+aVTransportation
+p666
+aVTravel Services
+p667
+aVTree Services
+p668
+aVTrophy Shops
+p669
+aVTruck Rental
+p670
+aVTubing
+p671
+aVTurkish
+p672
+aVTutoring Centers
+p673
+aVUkrainian
+p674
+aVUniforms
+p675
+aVUniversity Housing
+p676
+aVUrgent Care
+p677
+aVUrologists
+p678
+aVUsed, Vintage & Consignment
+p679
+aVUtilities
+p680
+aVVacation Rental Agents
+p681
+aVVacation Rentals
+p682
+aVVape Shops
+p683
+aVVegan
+p684
+aVVegetarian
+p685
+aVVenezuelan
+p686
+aVVenues & Event Spaces
+p687
+aVVeterinarians
+p688
+aVVideo/Film Production
+p689
+aVVideographers
+p690
+aVVideos & Video Game Rental
+p691
+aVVietnamese
+p692
+aVVinyl Records
+p693
+aVVocational & Technical School
+p694
+aVWalk-in Clinics
+p695
+aVWatch Repair
+p696
+aVWatches
+p697
+aVWater Delivery
+p698
+aVWaxing
+p699
+aVWeb Design
+p700
+aVWedding Planning
+p701
+aVWeight Loss Centers
+p702
+aVWheel & Rim Repair
+p703
+aVWholesale Stores
+p704
+aVWigs
+p705
+aVWindow Washing
+p706
+aVWindows Installation
+p707
+aVWindshield Installation & Repair
+p708
+aVWine Bars
+p709
+aVWineries
+p710
+aVWomen's Clothing
+p711
+aVYelp Events
+p712
+aVYoga
+p713
+aVZoos
+p714
+asS'dtype'
+p715
+cnumpy
+float64
+p716
+sS'vocabulary_'
+p717
+(dp718
+g569
+I560
+sg28
+I19
+sg670
+I661
+sg219
+I210
+sg220
+I211
+sg18
+I9
+sg104
+I95
+sg87
+I78
+sg143
+I134
+sg234
+I225
+sg177
+I168
+sg119
+I110
+sg109
+I100
+sg526
+I517
+sg642
+I633
+sg612
+I603
+sg518
+I509
+sg390
+I381
+sg39
+I30
+sg364
+I355
+sg49
+I40
+sg497
+I488
+sg296
+I287
+sg496
+I487
+sg303
+I294
+sg212
+I203
+sg15
+I6
+sg626
+I617
+sg162
+I153
+sg93
+I84
+sg565
+I556
+sg184
+I175
+sg270
+I261
+sg316
+I307
+sg242
+I233
+sg63
+I54
+sg469
+I460
+sg194
+I185
+sg74
+I65
+sg640
+I631
+sg306
+I297
+sg122
+I113
+sg315
+I306
+sg553
+I544
+sg142
+I133
+sg381
+I372
+sg125
+I116
+sg201
+I192
+sg291
+I282
+sg30
+I21
+sg268
+I259
+sg465
+I456
+sg596
+I587
+sg437
+I428
+sg444
+I435
+sg504
+I495
+sg602
+I593
+sg229
+I220
+sg57
+I48
+sg350
+I341
+sg169
+I160
+sg667
+I658
+sg397
+I388
+sg489
+I480
+sg593
+I584
+sg29
+I20
+sg521
+I512
+sg22
+I13
+sg420
+I411
+sg319
+I310
+sg301
+I292
+sg575
+I566
+sg295
+I286
+sg714
+I705
+sg308
+I299
+sg671
+I662
+sg299
+I290
+sg696
+I687
+sg392
+I383
+sg146
+I137
+sg322
+I313
+sg269
+I260
+sg311
+I302
+sg81
+I72
+sg464
+I455
+sg713
+I704
+sg461
+I452
+sg329
+I320
+sg422
+I413
+sg471
+I462
+sg445
+I436
+sg96
+I87
+sg105
+I96
+sg377
+I368
+sg9
+I0
+sg589
+I580
+sg452
+I443
+sg209
+I200
+sg376
+I367
+sg172
+I163
+sg694
+I685
+sg203
+I194
+sg621
+I612
+sg472
+I463
+sg571
+I562
+sg55
+I46
+sg581
+I572
+sg538
+I529
+sg685
+I676
+sg509
+I500
+sg372
+I363
+sg258
+I249
+sg152
+I143
+sg473
+I464
+sg175
+I166
+sg286
+I277
+sg658
+I649
+sg638
+I629
+sg380
+I371
+sg32
+I23
+sg71
+I62
+sg41
+I32
+sg321
+I312
+sg510
+I501
+sg342
+I333
+sg692
+I683
+sg407
+I398
+sg492
+I483
+sg457
+I448
+sg361
+I352
+sg607
+I598
+sg326
+I317
+sg241
+I232
+sg50
+I41
+sg511
+I502
+sg686
+I677
+sg280
+I271
+sg402
+I393
+sg367
+I358
+sg118
+I109
+sg283
+I274
+sg455
+I446
+sg83
+I74
+sg652
+I643
+sg243
+I234
+sg266
+I257
+sg275
+I266
+sg441
+I432
+sg38
+I29
+sg544
+I535
+sg700
+I691
+sg580
+I571
+sg101
+I92
+sg205
+I196
+sg532
+I523
+sg137
+I128
+sg577
+I568
+sg217
+I208
+sg60
+I51
+sg84
+I75
+sg359
+I350
+sg89
+I80
+sg337
+I328
+sg287
+I278
+sg250
+I241
+sg573
+I564
+sg221
+I212
+sg515
+I506
+sg574
+I565
+sg591
+I582
+sg144
+I135
+sg189
+I180
+sg147
+I138
+sg588
+I579
+sg202
+I193
+sg257
+I248
+sg629
+I620
+sg543
+I534
+sg222
+I213
+sg484
+I475
+sg419
+I410
+sg82
+I73
+sg440
+I431
+sg200
+I191
+sg481
+I472
+sg449
+I440
+sg54
+I45
+sg153
+I144
+sg501
+I492
+sg207
+I198
+sg512
+I503
+sg58
+I49
+sg650
+I641
+sg525
+I516
+sg698
+I689
+sg459
+I450
+sg309
+I300
+sg702
+I693
+sg10
+I1
+sg697
+I688
+sg12
+I3
+sg204
+I195
+sg576
+I567
+sg535
+I526
+sg334
+I325
+sg706
+I697
+sg293
+I284
+sg73
+I64
+sg110
+I101
+sg554
+I545
+sg186
+I177
+sg297
+I288
+sg206
+I197
+sg304
+I295
+sg127
+I118
+sg385
+I376
+sg405
+I396
+sg605
+I596
+sg154
+I145
+sg462
+I453
+sg141
+I132
+sg375
+I366
+sg493
+I484
+sg235
+I226
+sg454
+I445
+sg158
+I149
+sg636
+I627
+sg164
+I155
+sg424
+I415
+sg24
+I15
+sg88
+I79
+sg179
+I170
+sg213
+I204
+sg188
+I179
+sg48
+I39
+sg112
+I103
+sg33
+I24
+sg439
+I430
+sg106
+I97
+sg466
+I457
+sg393
+I384
+sg108
+I99
+sg529
+I520
+sg611
+I602
+sg231
+I222
+sg406
+I397
+sg610
+I601
+sg285
+I276
+sg675
+I666
+sg520
+I511
+sg557
+I548
+sg549
+I540
+sg226
+I217
+sg551
+I542
+sg333
+I324
+sg208
+I199
+sg531
+I522
+sg579
+I570
+sg486
+I477
+sg181
+I172
+sg623
+I614
+sg456
+I447
+sg634
+I625
+sg664
+I655
+sg346
+I337
+sg384
+I375
+sg368
+I359
+sg65
+I56
+sg556
+I547
+sg451
+I442
+sg666
+I657
+sg327
+I318
+sg566
+I557
+sg646
+I637
+sg446
+I437
+sg91
+I82
+sg14
+I5
+sg51
+I42
+sg171
+I162
+sg477
+I468
+sg254
+I245
+sg52
+I43
+sg43
+I34
+sg528
+I519
+sg600
+I591
+sg90
+I81
+sg513
+I504
+sg647
+I638
+sg69
+I60
+sg277
+I268
+sg56
+I47
+sg383
+I374
+sg494
+I485
+sg324
+I315
+sg470
+I461
+sg683
+I674
+sg403
+I394
+sg649
+I640
+sg665
+I656
+sg370
+I361
+sg35
+I26
+sg339
+I330
+sg193
+I184
+sg608
+I599
+sg508
+I499
+sg563
+I554
+sg276
+I267
+sg674
+I665
+sg265
+I256
+sg314
+I305
+sg230
+I221
+sg505
+I496
+sg410
+I401
+sg668
+I659
+sg86
+I77
+sg527
+I518
+sg430
+I421
+sg687
+I678
+sg237
+I228
+sg360
+I351
+sg192
+I183
+sg163
+I154
+sg396
+I387
+sg673
+I664
+sg558
+I549
+sg17
+I8
+sg178
+I169
+sg447
+I438
+sg23
+I14
+sg495
+I486
+sg159
+I150
+sg630
+I621
+sg616
+I607
+sg156
+I147
+sg414
+I405
+sg78
+I69
+sg140
+I131
+sg699
+I690
+sg545
+I536
+sg300
+I291
+sg256
+I247
+sg590
+I581
+sg174
+I165
+sg379
+I370
+sg330
+I321
+sg313
+I304
+sg619
+I610
+sg343
+I334
+sg641
+I632
+sg289
+I280
+sg46
+I37
+sg328
+I319
+sg443
+I434
+sg434
+I425
+sg631
+I622
+sg585
+I576
+sg648
+I639
+sg272
+I263
+sg606
+I597
+sg448
+I439
+sg488
+I479
+sg408
+I399
+sg170
+I161
+sg264
+I255
+sg302
+I293
+sg586
+I577
+sg224
+I215
+sg438
+I429
+sg355
+I346
+sg155
+I146
+sg267
+I258
+sg690
+I681
+sg620
+I611
+sg27
+I18
+sg216
+I207
+sg625
+I616
+sg618
+I609
+sg249
+I240
+sg358
+I349
+sg490
+I481
+sg540
+I531
+sg582
+I573
+sg635
+I626
+sg516
+I507
+sg418
+I409
+sg196
+I187
+sg433
+I424
+sg584
+I575
+sg413
+I404
+sg435
+I426
+sg223
+I214
+sg653
+I644
+sg352
+I343
+sg491
+I482
+sg131
+I122
+sg187
+I178
+sg25
+I16
+sg354
+I345
+sg136
+I127
+sg21
+I12
+sg97
+I88
+sg547
+I538
+sg458
+I449
+sg116
+I107
+sg210
+I201
+sg160
+I151
+sg365
+I356
+sg279
+I270
+sg347
+I338
+sg595
+I586
+sg310
+I301
+sg680
+I671
+sg40
+I31
+sg307
+I298
+sg578
+I569
+sg654
+I645
+sg255
+I246
+sg542
+I533
+sg604
+I595
+sg107
+I98
+sg245
+I236
+sg19
+I10
+sg423
+I414
+sg75
+I66
+sg599
+I590
+sg151
+I142
+sg47
+I38
+sg411
+I402
+sg45
+I36
+sg130
+I121
+sg248
+I239
+sg298
+I289
+sg519
+I510
+sg400
+I391
+sg161
+I152
+sg672
+I663
+sg382
+I373
+sg394
+I385
+sg62
+I53
+sg498
+I489
+sg282
+I273
+sg524
+I515
+sg325
+I316
+sg353
+I344
+sg42
+I33
+sg614
+I605
+sg587
+I578
+sg559
+I550
+sg485
+I476
+sg562
+I553
+sg211
+I202
+sg262
+I253
+sg167
+I158
+sg468
+I459
+sg679
+I670
+sg507
+I498
+sg676
+I667
+sg388
+I379
+sg426
+I417
+sg338
+I329
+sg522
+I513
+sg135
+I126
+sg138
+I129
+sg482
+I473
+sg478
+I469
+sg335
+I326
+sg129
+I120
+sg356
+I347
+sg120
+I111
+sg693
+I684
+sg92
+I83
+sg561
+I552
+sg657
+I648
+sg534
+I525
+sg429
+I420
+sg709
+I700
+sg603
+I594
+sg340
+I331
+sg592
+I583
+sg215
+I206
+sg59
+I50
+sg651
+I642
+sg609
+I600
+sg389
+I380
+sg103
+I94
+sg660
+I651
+sg100
+I91
+sg682
+I673
+sg695
+I686
+sg214
+I205
+sg251
+I242
+sg564
+I555
+sg76
+I67
+sg317
+I308
+sg11
+I2
+sg252
+I243
+sg548
+I539
+sg659
+I650
+sg395
+I386
+sg323
+I314
+sg341
+I332
+sg387
+I378
+sg632
+I623
+sg637
+I628
+sg182
+I173
+sg398
+I389
+sg263
+I254
+sg613
+I604
+sg124
+I115
+sg305
+I296
+sg701
+I692
+sg173
+I164
+sg404
+I395
+sg31
+I22
+sg26
+I17
+sg67
+I58
+sg225
+I216
+sg639
+I630
+sg427
+I418
+sg567
+I558
+sg436
+I427
+sg467
+I458
+sg570
+I561
+sg70
+I61
+sg145
+I136
+sg450
+I441
+sg628
+I619
+sg643
+I634
+sg363
+I354
+sg598
+I589
+sg704
+I695
+sg36
+I27
+sg502
+I493
+sg150
+I141
+sg705
+I696
+sg77
+I68
+sg533
+I524
+sg601
+I592
+sg191
+I182
+sg366
+I357
+sg431
+I422
+sg480
+I471
+sg442
+I433
+sg572
+I563
+sg661
+I652
+sg594
+I585
+sg99
+I90
+sg190
+I181
+sg198
+I189
+sg345
+I336
+sg218
+I209
+sg386
+I377
+sg627
+I618
+sg246
+I237
+sg655
+I646
+sg555
+I546
+sg539
+I530
+sg199
+I190
+sg72
+I63
+sg348
+I339
+sg417
+I408
+sg517
+I508
+sg432
+I423
+sg239
+I230
+sg453
+I444
+sg362
+I353
+sg320
+I311
+sg233
+I224
+sg681
+I672
+sg503
+I494
+sg273
+I264
+sg409
+I400
+sg624
+I615
+sg134
+I125
+sg64
+I55
+sg53
+I44
+sg373
+I364
+sg195
+I186
+sg149
+I140
+sg663
+I654
+sg244
+I235
+sg568
+I559
+sg102
+I93
+sg399
+I390
+sg133
+I124
+sg290
+I281
+sg79
+I70
+sg678
+I669
+sg114
+I105
+sg711
+I702
+sg514
+I505
+sg710
+I701
+sg391
+I382
+sg369
+I360
+sg357
+I348
+sg318
+I309
+sg703
+I694
+sg344
+I335
+sg240
+I231
+sg68
+I59
+sg483
+I474
+sg113
+I104
+sg487
+I478
+sg688
+I679
+sg312
+I303
+sg238
+I229
+sg168
+I159
+sg597
+I588
+sg644
+I635
+sg228
+I219
+sg689
+I680
+sg16
+I7
+sg132
+I123
+sg85
+I76
+sg236
+I227
+sg176
+I167
+sg546
+I537
+sg13
+I4
+sg499
+I490
+sg371
+I362
+sg474
+I465
+sg645
+I636
+sg669
+I660
+sg165
+I156
+sg500
+I491
+sg139
+I130
+sg583
+I574
+sg95
+I86
+sg180
+I171
+sg331
+I322
+sg684
+I675
+sg541
+I532
+sg378
+I369
+sg425
+I416
+sg271
+I262
+sg281
+I272
+sg126
+I117
+sg61
+I52
+sg166
+I157
+sg336
+I327
+sg712
+I703
+sg34
+I25
+sg284
+I275
+sg633
+I624
+sg128
+I119
+sg98
+I89
+sg401
+I392
+sg274
+I265
+sg294
+I285
+sg428
+I419
+sg506
+I497
+sg530
+I521
+sg479
+I470
+sg677
+I668
+sg523
+I514
+sg536
+I527
+sg185
+I176
+sg66
+I57
+sg292
+I283
+sg183
+I174
+sg550
+I541
+sg148
+I139
+sg560
+I551
+sg121
+I112
+sg552
+I543
+sg332
+I323
+sg475
+I466
+sg259
+I250
+sg691
+I682
+sg708
+I699
+sg349
+I340
+sg537
+I528
+sg260
+I251
+sg44
+I35
+sg460
+I451
+sg20
+I11
+sg476
+I467
+sg111
+I102
+sg247
+I238
+sg227
+I218
+sg374
+I365
+sg157
+I148
+sg80
+I71
+sg415
+I406
+sg622
+I613
+sg197
+I188
+sg278
+I269
+sg288
+I279
+sg117
+I108
+sg94
+I85
+sg232
+I223
+sg261
+I252
+sg463
+I454
+sg707
+I698
+sg351
+I342
+sg115
+I106
+sg421
+I412
+sg123
+I114
+sg656
+I647
+sg416
+I407
+sg412
+I403
+sg662
+I653
+sg253
+I244
+sg617
+I608
+sg615
+I606
+sg37
+I28
+ssS'separator'
+p719
+S'='
+p720
+sS'sparse'
+p721
+I01
+sb.
