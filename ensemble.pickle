@@ -18,7 +18,7 @@ p7
 I1
 sS'rank_'
 p8
-I3
+I4
 sS'fit_intercept'
 p9
 I01
@@ -43,7 +43,7 @@ NNNI-1
 I-1
 I0
 tp17
-bS'7\xcf\x1a\x93\xa62\xdd@'
+bS'\xdb\xf2\x9e\xed\xff\xef\xdc@'
 p18
 tp19
 Rp20
@@ -62,11 +62,11 @@ p25
 tp26
 Rp27
 (I1
-(I3
+(I4
 tp28
 g15
 I00
-S'\xae\xf3\xa5T\xa6=j?x$\x0fnq%\x85\xbf\x82\x95\x01\xaae\\-?'
+S'\xe8\xd8X\xa9\x0c:&?\x90\xaf\x8e6XWD\xbf\xef9\nh\r\xaa)?\xe0\xb6S\xc7\xa0\xcf\xef?'
 p29
 tp30
 bsS'copy_X'
@@ -76,7 +76,7 @@ sS'intercept_'
 p32
 g11
 (g15
-S'\xbd@\xe3\x0f\x08\x82\x11@'
+S'\x00/<\x84\xb2\xd0\xac?'
 p33
 tp34
 Rp35
@@ -90,11 +90,11 @@ g25
 tp38
 Rp39
 (I1
-(I3
+(I4
 tp40
 g15
 I00
-S'4\x9f\xe3qN\xac\xd1@\xc9\xd6\xb3_Z\xf1\xb5@1\xeeX\xdf\xba\x9dt@'
+S'\xd2\xf3\xe6qN\xac\xd1@\xf1KvA[\xf1\xb5@b\\4\xe3\x00\x9et@6\x1e\x17\xfa\x93l0@'
 p41
 tp42
 bsb.
